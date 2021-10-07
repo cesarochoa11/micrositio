@@ -22,9 +22,9 @@ nav ul li a:hover { background-color: white;color: blue; }
 
 .cajaslider img { width:100%;}
 
-.parte { padding: 20px 10px; margin-bottom: 15px;}
+.parte { padding: 20px 10px; margin-bottom: 20px;}
 
-#parte3 { display: flex; flex-flow: wrap; margin-bottom: 15px;}
+#parte3 { display: flex; flex-flow: wrap; margin-bottom: 20px;}
 #parte3 h2 { width: 100%; box-sizing: border-box; text-align: center;}
 #parte3 .nota { width: 33.3%; padding: 20px; box-sizing: border-box;}
 #parte3 .nota img { width: 100%; display: block;}
